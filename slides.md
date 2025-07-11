@@ -1,5 +1,6 @@
 ---
-theme: apple-basic
+theme: default
+background: /01-more-engineer.png
 title: Why AI Makes You More of an Engineer, Not Less
 author: Oliver Jägle
 info: |
@@ -22,13 +23,11 @@ colorSchema: auto
 
 # Why AI Makes You More of an Engineer, Not Less
 
-<div class="text-2xl opacity-80 mb-4">From "10x Faster" to "10x Enabled"</div>
-
 <div class="text-lg opacity-60">Oliver Jägle</div>
 
 <style>
 h1 {
-  background: linear-gradient(45deg, #4f46e5, #06b6d4);
+  background: linear-gradient(45deg,rgb(124, 191, 196), #06b6d4);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
