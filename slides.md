@@ -44,11 +44,13 @@ image: /02-lego-transformation.png
 <!--
 **Speaker Notes:**
 
+When I was talking to my daughter earlier, it sounded like this:
+
 "Dad, programming used to be like professional Lego building - you had to place every single piece yourself, right?"
 
-"Now you just explain to the computer in German what you want to build, and it builds it like a Lego robot!"
+and recently she added
 
-She was right. But here's what I realized - I was completely wrong about what makes someone an engineer.
+"Now you just explain to the computer in German what you want to build, and it builds it like a Lego robot! Are you actually doing software still?"
 
 This conversation with my daughter made me realize that we're experiencing a fundamental shift in how we think about software development. But the real question isn't about the tools - it's about what makes us engineers in the first place.
 -->
